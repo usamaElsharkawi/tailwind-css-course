@@ -6,5 +6,6 @@
 * [Project 2:Testimonials Grid](https://github.com/usamaElsharkawi/testimonios-grid)
 * [Project 3:loopstudio landing page](https://github.com/usamaElsharkawi/loopstudios-landing-page)
 * [Project 4:Shortly landing page](https://github.com/usamaElsharkawi/Shortly-Website)
+* [Project 5:Fylo landing page](https://github.com/usamaElsharkawi/Fylo-website)
 
   (in progress...)
