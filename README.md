@@ -7,5 +7,6 @@
 * [Project 3:loopstudio landing page](https://github.com/usamaElsharkawi/loopstudios-landing-page)
 * [Project 4:Shortly landing page](https://github.com/usamaElsharkawi/Shortly-Website)
 * [Project 5:Fylo landing page](https://github.com/usamaElsharkawi/Fylo-website)
+* [Project 6:Bookmark manager landing page](https://github.com/usamaElsharkawi/bookmark-manager-landing-page)
 
   (in progress...)
