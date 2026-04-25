@@ -9,4 +9,3 @@
 * [Project 5:Fylo landing page](https://github.com/usamaElsharkawi/Fylo-website)
 * [Project 6:Bookmark manager landing page](https://github.com/usamaElsharkawi/bookmark-manager-landing-page)
 
-  (in progress...)
